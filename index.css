@@ -124,7 +124,17 @@ li {
     text-decoration: none;
 }
 
-a {
+a:link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
     text-decoration: none;
     color: #ffffff;
 }
