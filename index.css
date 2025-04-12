@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Poppins';
-    src: url(Fonts\Poppins);
+    src: url('Fonts');
 }
 
 body {
-    font-size: 22px
+    font-size: 22px;
     background-color: #16191F;
     color: #E5C3A6;
 }
