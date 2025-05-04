@@ -114,16 +114,6 @@ body {
     color: #ffffff;
 }
 
-ul {
-    list-style-type: none;
-    padding: 10px;
-    margin: 20px;
-}
-
-li {
-    text-decoration: none;
-}
-
 a:link {
     text-decoration: none;
     color: #ffffff;
